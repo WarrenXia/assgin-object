@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "assgin javascript objects",
   "author": "Neo Xia <xsh613@gmail.com>",
+  "scripts": {
+    "start": "gulp"
+  },
   "keywords": [
     "assgin",
     "object"
@@ -16,6 +19,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-header": "^1.8.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2",
     "moment": "^2.18.1"
   }
 }
