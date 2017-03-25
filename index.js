@@ -1,9 +1,5 @@
 function assginObject() {
 
-  if (Object.assign) {
-    return Object.assign(arguments);
-  }
-
   var newObj = {};
   var argLen = arguments.length;
 
