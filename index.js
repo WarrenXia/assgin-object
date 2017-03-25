@@ -5,6 +5,7 @@ function assginObject() {
 
   if (argLen === 0) {
     console.warn('no object to assgin');
+    return null;
   }
 
   for (var i = 0; i < argLen; i++) {
