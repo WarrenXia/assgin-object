@@ -1,0 +1,16 @@
+{
+  "name": "assgin-object",
+  "version": "0.0.1",
+  "description": "assgin javascript objects",
+  "author": "Neo Xia <xsh613@gmail.com>",
+  "keywords": [
+    "assgin",
+    "object"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WarrenXia/assgin-object.git"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
