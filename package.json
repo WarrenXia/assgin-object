@@ -12,5 +12,10 @@
     "url": "git@github.com:WarrenXia/assgin-object.git"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.8.8",
+    "moment": "^2.18.1"
+  }
 }
