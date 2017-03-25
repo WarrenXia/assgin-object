@@ -14,7 +14,7 @@ function assginObject() {
         newObj[j] = arguments[i][j];
       }
     } else {
-      console.warn((i+1) + 'th argument is not a pure object');
+      console.warn((i + 1) + 'th argument is not a pure object');
     }
   }
   return newObj;
