@@ -1,6 +1,6 @@
 {
   "name": "assign-object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "assign javascript objects",
   "author": "Neo Xia <xsh613@gmail.com>",
   "scripts": {
