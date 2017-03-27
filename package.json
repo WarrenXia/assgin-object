@@ -1,20 +1,20 @@
 {
-  "name": "assgin-object",
-  "version": "1.0.1",
-  "description": "assgin javascript objects",
+  "name": "assign-object",
+  "version": "1.0.2",
+  "description": "assign javascript objects",
   "author": "Neo Xia <xsh613@gmail.com>",
   "scripts": {
     "start": "gulp"
   },
   "keywords": [
-    "assgin",
+    "assign",
     "object"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:WarrenXia/assgin-object.git"
+    "url": "git@github.com:WarrenXia/assign-object.git"
   },
-  "main": "index.js",
+  "main": "assgin-object.js",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
