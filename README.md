@@ -33,4 +33,4 @@ assignObject({1:2}, {2:5}, null);
 ```
 ### In browser
 
-You can use in the browser, the src folder contains a compressed and uncompressed version below
+You can use in the browser, the dist folder contains a compressed and uncompressed version below
