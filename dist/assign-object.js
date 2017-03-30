@@ -1,4 +1,4 @@
-/* version: 1.0.3 | author: Neo Xia <xsh613@gmail.com> | license: MIT | github: git@github.com:WarrenXia/assign-object.git | Date: 2017-03-30 11:59:44 */
+/* version: 1.0.4 | author: Neo Xia <xsh613@gmail.com> | license: MIT | github: git@github.com:WarrenXia/assign-object.git | Date: 2017-03-30 12:01:14 */
 (function() {
   function assignObject() {
 
