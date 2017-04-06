@@ -1,6 +1,6 @@
 {
   "name": "assign-object",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "assign javascript objects",
   "author": "Neo Xia <xsh613@gmail.com>",
   "scripts": {
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git@github.com:WarrenXia/assign-object.git"
   },
-  "main": "./src/assgin-object.js",
+  "main": "./src/assign-object.js",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
