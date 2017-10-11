@@ -8,7 +8,8 @@
   },
   "keywords": [
     "assign",
-    "object"
+    "object",
+    "Object.assign"
   ],
   "repository": {
     "type": "git",
